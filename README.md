@@ -1,4 +1,4 @@
-# Wordcloud Songtitle App
+# [Wordcloud Songtitle App](https://songtitle-wordcloud-app.herokuapp.com/)
 This app uses the Musixmatch API to create a wordcloud with to visually display the frequency of words in a given artist's song titles.
 
 The future feature will be to include sentiment analysis on the results.
@@ -11,5 +11,3 @@ The future feature will be to include sentiment analysis on the results.
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.3.0.
 
 
-
-wordcloud-songtitle-app# songtitle-wordcloud-app
